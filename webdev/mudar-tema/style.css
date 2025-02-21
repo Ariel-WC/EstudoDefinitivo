@@ -1,0 +1,25 @@
+nav {
+    margin: 0;
+    background-color: rgb(20, 20, 20);
+}
+ul {
+    color: white;
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+    overflow: hidden;
+}
+li {
+    display: inline;
+    margin: 0px 20px 0px 20px;
+    float: left;
+}
+li > a {
+    color: white;
+    text-decoration: none;
+}
+#config {
+    float: right;
+    cursor: pointer;
+}
+
